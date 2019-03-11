@@ -24,7 +24,7 @@ public class ReadingText {
         String token ;
         
         
-        File file = new File("C:\\Users\\Raghav Gupta\\Documents\\read.txt");
+        File file = new File("read.txt");
         Scanner sc = new Scanner(file);
         
         
